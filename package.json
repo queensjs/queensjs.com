@@ -1,0 +1,12 @@
+{
+  "name": "queens-js",
+  "version": "0.0.1",
+  "description": "Website for the Queens JS meetup",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
