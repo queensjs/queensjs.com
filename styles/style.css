@@ -11,6 +11,10 @@ h1 {
   text-transform: uppercase;
 }
 
+section {
+  padding: 20px 50px;
+}
+
 nav {
   background-color: rgb(239, 82, 35);
   border-top: 4px solid white;
@@ -32,6 +36,10 @@ a {
 }
 
 a:hover {
+  color: white;
+}
+
+p {
   color: white;
 }
 
